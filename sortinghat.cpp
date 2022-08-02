@@ -39,7 +39,7 @@
 
 		}
 		// Question #2
-		std::cout << " Q2) Dawnor Dusk?\n";
+		std::cout << " Q2) Dawn or Dusk?\n";
 
 		std::cout << " 1) Dawn\n";
 		std::cout << " 2) Dusk\n";
